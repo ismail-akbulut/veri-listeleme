@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\dersler\csharp_form\kayitsiralama\kayitsiralama\bin\Debug\kayitsiralama.exe.config
+C:\Users\User\Desktop\dersler\csharp_form\kayitsiralama\kayitsiralama\bin\Debug\kayitsiralama.exe
+C:\Users\User\Desktop\dersler\csharp_form\kayitsiralama\kayitsiralama\bin\Debug\kayitsiralama.pdb
+C:\Users\User\Desktop\dersler\csharp_form\kayitsiralama\kayitsiralama\obj\Debug\kayitsiralama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dersler\csharp_form\kayitsiralama\kayitsiralama\obj\Debug\kayitsiralama.Form1.resources
+C:\Users\User\Desktop\dersler\csharp_form\kayitsiralama\kayitsiralama\obj\Debug\kayitsiralama.Properties.Resources.resources
+C:\Users\User\Desktop\dersler\csharp_form\kayitsiralama\kayitsiralama\obj\Debug\kayitsiralama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\dersler\csharp_form\kayitsiralama\kayitsiralama\obj\Debug\kayitsiralama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dersler\csharp_form\kayitsiralama\kayitsiralama\obj\Debug\kayitsiralama.exe
+C:\Users\User\Desktop\dersler\csharp_form\kayitsiralama\kayitsiralama\obj\Debug\kayitsiralama.pdb
+C:\Users\User\Desktop\dersler\csharp_form\kayitsiralama\kayitsiralama\obj\Debug\kayitsiralama.exe.config
